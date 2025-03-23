@@ -1,0 +1,11 @@
+﻿<RevitAddIns>
+    <AddIn Type="Application">
+        <Name>ModelExporter</Name>
+        <Assembly>ModelExporter/ModelExporter.dll</Assembly>
+        <AddInId>6324580F-63FC-47DA-8EA8-12C83F945035</AddInId>
+        <FullClassName>ModelExporter.Application</FullClassName>
+        <VendorId>Development</VendorId>
+        <VendorDescription></VendorDescription>
+        <VendorEmail></VendorEmail>
+    </AddIn>
+</RevitAddIns>
